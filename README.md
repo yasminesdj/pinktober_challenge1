@@ -1,0 +1,1 @@
+This project is part of a datathon focused on classifying tumor types using machine learning techniques. The goal is to develop an accurate model that can differentiate between various tumor categories based on input features.
